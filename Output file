@@ -1,0 +1,84 @@
+MAIN MENU
+1.Admin
+2.Users
+3.Exit
+Enter your choice
+1
+Enter Email
+xyz@gmail.com
+Enter Password
+12345678
+Welcome Admin
+Admin Menu
+1. Set Elevator Capacity and Floors
+2. Back to Main Menu
+Enter your choice:
+1
+Enter the elevator capacity:
+8
+Enter the total number of floors in the building:
+10
+Elevator capacity set to 8 and total floors set to 10.
+Admin Menu
+1. Set Elevator Capacity and Floors
+2. Back to Main Menu
+Enter your choice:
+2
+MAIN MENU
+1.Admin
+2.Users
+3.Exit
+Enter your choice
+2
+The lift is currently at floor 0
+Enter the number of users:
+3
+User 1: Enter your destination floor (0 to 10):
+3
+User 2: Enter your destination floor (0 to 10):
+5
+User 3: Enter your destination floor (0 to 10):
+4
+Moving from floor 0 to floor 1
+Moving from floor 1 to floor 2
+Moving from floor 2 to floor 3
+Lift has arrived at floor 3
+1 users have reached floor 3 and exited the lift
+Do you want to add more users? (1.yes/2.no):
+1
+Enter the number of users:
+9
+Capacity exceeded! Only 6 more users can enter.
+User 1: Enter your destination floor (0 to 10):
+0
+User 2: Enter your destination floor (0 to 10):
+0
+User 3: Enter your destination floor (0 to 10):
+0
+User 4: Enter your destination floor (0 to 10):
+0
+User 5: Enter your destination floor (0 to 10):
+0
+User 6: Enter your destination floor (0 to 10):
+0
+Moving from floor 3 to floor 4
+Lift has arrived at floor 4
+1 users have reached floor 4 and exited the lift
+Do you want to add more users? (1.yes/2.no):
+2
+Moving from floor 4 to floor 5
+Lift has arrived at floor 5
+1 users have reached floor 5 and exited the lift
+Do you want to add more users? (1.yes/2.no):
+2
+Moving from floor 5 to floor 4
+Moving from floor 4 to floor 3
+Moving from floor 3 to floor 2
+Moving from floor 2 to floor 1
+Moving from floor 1 to floor 0
+Lift has arrived at floor 0
+6 users have reached floor 0 and exited the lift
+Do you want to add more users? (1.yes/2.no):
+2
+Do you want to continue? (1.yes/2.no):
+2
